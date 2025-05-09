@@ -1,4 +1,3 @@
-Apologies for the confusion! Here's the **README** file without the markdown block:
 
 # 🌐 Request Header Parser Microservice
 
